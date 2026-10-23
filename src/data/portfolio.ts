@@ -57,15 +57,18 @@ export const portfolio = {
       image: "/images/shombhar.png",
     },
    
-    {
-      title: "Development Stack Builder",
-      category: "React Project",
-      description:
-        "A technology stack builder for exploring and selecting development tools.",
-      tech: ["React", "TypeScript", "Vite"],
-      github: "https://github.com/YOUR_USERNAME/my-react-app",
-      demo: "",
-    },
+    
+{
+  title: "Development Stack Builder",
+  category: "React Project",
+  description:
+    "A technology stack builder for exploring and selecting development tools.",
+  tech: ["React", "TypeScript", "Vite"],
+  github: "https://github.com/YOUR_USERNAME/my-react-app",
+  demo: "",
+  image: "/images/dev-stack.png",
+},
+
   ],
 
   education: [
