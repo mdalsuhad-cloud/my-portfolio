@@ -66,7 +66,7 @@ export default function Hero() {
         <div className="hero-visual">
           <div className="profile-frame">
             <Image
-              src="./images/suhad.png"
+              src="/images/suhad.jpeg"
               alt="My developer profile photo"
               fill
               priority

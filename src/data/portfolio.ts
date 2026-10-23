@@ -66,7 +66,7 @@ export const portfolio = {
   tech: ["React", "TypeScript", "Vite"],
   github: "https://github.com/YOUR_USERNAME/my-react-app",
   demo: "",
-  image: "./images/dev-stack.png",
+  image: "",
 },
 
   ],
