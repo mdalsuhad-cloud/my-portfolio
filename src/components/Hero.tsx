@@ -31,7 +31,7 @@ export default function Hero() {
 
             <a
               className="button button-secondary"
-              href="/MD_Al_Suhad_CV.pdf"
+              href="/MD_Al_Suhad_Full_Stack_Developer_Resume.pdf"
               download
             >
               Download CV
